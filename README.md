@@ -19,5 +19,12 @@ The main objectives of this project are:
 - Attrition Analytics
 - Interactive Department Filter
 
+## Key Insights
+- Identified workforce distribution across departments.
+- Analyzed employee demographics and workforce composition.
+- Monitored attrition trends and department-level turnover.
+- Identified key reasons contributing to employee attrition.
+- Supported HR decision-making through interactive workforce analytics.
+
 ## Disclaimer
 This dashboard is shared for portfolio purposes. Any sensitive information has been anonymized or is used solely for demonstration.
